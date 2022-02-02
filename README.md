@@ -1,5 +1,9 @@
 # Upload Zip File to AWS Lambda
 
+Build your code in the "script-lambda" folder.
+
+Deploy the compressed code in a zip file by uploading it to an AWS Lambda.
+
 ## Technologies
 
 - NodeJS
