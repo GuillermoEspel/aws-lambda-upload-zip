@@ -30,13 +30,6 @@ npm run test
 
 ## Steps to deploy
 
-- Go to "script-lambda" folder.
-- Zip directory:
-
-```
-zip -r ../deploy.zip *
-```
-
 - Go to root folder.
 - Configure .env file
 - Install dependencies:
