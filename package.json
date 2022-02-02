@@ -1,0 +1,14 @@
+{
+  "name": "aws-lambda-upload-zip",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Guillermo Espel",
+  "license": "ISC",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1067.0",
+    "dotenv": "^15.0.1"
+  }
+}

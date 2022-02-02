@@ -1,0 +1,9 @@
+{
+    "name": "lambda-upload",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "dependencies": {
+        "uuid": "^8.3.2"
+    }
+}
